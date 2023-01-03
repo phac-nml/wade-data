@@ -1,6 +1,6 @@
 # WADE-data
 
-This repository contains data files for use with WADE. 
+This repository contains data files for use with [WADE](https://github.com/phac-nml/wade). 
 
 ## Legal
 
