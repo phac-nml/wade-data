@@ -1,0 +1,22 @@
+INC,MIC,azi,pen,cfm,cro,cip,tet
+-9,0.002,Susceptible,Susceptible,Susceptible,Susceptible,Susceptible,Susceptible
+-8,0.004,Susceptible,Susceptible,Susceptible,Susceptible,Susceptible,Susceptible
+-7,0.008,Susceptible,Susceptible,Susceptible,Susceptible,Susceptible,Susceptible
+-6,0.016,Susceptible,Susceptible,Susceptible,Susceptible,Susceptible,Susceptible
+-5,0.032,Susceptible,Susceptible,Susceptible,Susceptible,Susceptible,Susceptible
+-5,0.031,Susceptible,Susceptible,Susceptible,Susceptible,Susceptible,Susceptible
+-4,0.063,Susceptible,Susceptible,Susceptible,Susceptible,Susceptible,Susceptible
+-4,0.062,Susceptible,Susceptible,Susceptible,Susceptible,Susceptible,Susceptible
+-3,0.125,Susceptible,Intermediate,Susceptible,Decreased Susceptibility,Intermediate,Susceptible
+-2,0.25,Susceptible,Intermediate,Decreased Susceptibility,Resistant,Intermediate,Susceptible
+-1,0.5,Susceptible,Intermediate,Resistant,Resistant,Intermediate,Intermediate
+0,1,Susceptible,Intermediate,Resistant,Resistant,Resistant,Intermediate
+1,2,Resistant,Resistant,Resistant,Resistant,Resistant,Resistant
+2,4,Resistant,Resistant,Resistant,Resistant,Resistant,Resistant
+3,8,Resistant,Resistant,Resistant,Resistant,Resistant,Resistant
+4,16,Resistant,Resistant,Resistant,Resistant,Resistant,Resistant
+5,32,Resistant,Resistant,Resistant,Resistant,Resistant,Resistant
+6,64,Resistant,Resistant,Resistant,Resistant,Resistant,Resistant
+7,128,Resistant,Resistant,Resistant,Resistant,Resistant,Resistant
+8,256,Resistant,Resistant,Resistant,Resistant,Resistant,Resistant
+9,512,Resistant,Resistant,Resistant,Resistant,Resistant,Resistant

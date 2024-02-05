@@ -1,0 +1,11 @@
+Locus_id,Name,aa_start,aa_end,WildType
+gyrA,S81,81,81,S
+parC,D78,78,78,D
+parC,S79,79,79,S
+parC,D83,83,83,D
+folA,I100,100,100,I
+folP,INS_,100,102,ARA
+pbp2x,,550,553,KSGT
+ermAp,N90,90,90,N
+ermAp,D97,97,97,D
+ermB,N100,100,100,N

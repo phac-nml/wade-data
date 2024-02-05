@@ -1,0 +1,13 @@
+Locus_id,Name,aa_start,aa_end,WildType
+gyrA,S91,35,35,S
+gyrA,D95,39,39,D
+parC,D86,46,46,S
+parC,S87,47,47,D
+parC,S88,48,48,N
+parC,E91,51,51,E
+rpsJ,V57,57,57,V
+ponA,L421,15,15,L
+porB,porB1b,1,2,KN
+porB,G120,4,4,G
+porB,A121,5,5,A
+penA,T534,534,534,T
