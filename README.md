@@ -16,6 +16,4 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 ## Contact
 
-**Walter Demczuk:** Walter.Demczuk@phac-aspc.gc.ca
-
 **Shelley Peterson:** Shelley.Peterson@phac-aspc.gc.ca
