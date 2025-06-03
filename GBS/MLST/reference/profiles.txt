@@ -2404,3 +2404,6 @@ ST	adhP	pheS	atr	glnA	sdhA	glcK	tkt	clonal_complex
 2410	455	1	1	2	1	1	1	cc17
 2411	457	4	6	3	2	1	184	cc23
 2412	453	1	1	2	1	1	1	cc17
+2413	458	1	4	3	187	2	5	
+2414	1	1	283	1	1	33	2	cc1
+2415	1	1	283	1	1	2	2	cc1
